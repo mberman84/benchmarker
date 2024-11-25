@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "correct_answer": "The capital of France is Paris. It is the largest city in France and serves as the country's political, economic, and cultural center."
+  },
+  {
+    "question": "Explain how photosynthesis works in simple terms.",
+    "correct_answer": "Photosynthesis is the process by which plants make their own food. They use sunlight, water, and carbon dioxide to create glucose and oxygen. The sunlight is absorbed by chlorophyll in the leaves, which converts these ingredients into energy for the plant."
+  },
+  {
+    "question": "What is the difference between RAM and ROM in computers?",
+    "correct_answer": "RAM (Random Access Memory) is temporary memory that stores data that the computer is actively using. It's volatile, meaning its contents are erased when the computer is turned off. ROM (Read-Only Memory) is permanent memory that contains instructions needed to start up the computer. Its contents remain even when the computer is turned off."
+  }
+]

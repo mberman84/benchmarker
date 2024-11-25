@@ -1,0 +1,79 @@
+{
+  "evaluations": [
+    {
+      "question_number": 1,
+      "question": "What is the capital of France?",
+      "correct_answer": "The capital of France is Paris. It is the largest city in France and serves as the country's political, economic, and cultural center.",
+      "ai_response": "The capital of France is Paris. Paris is not only the political and cultural capital of the country but also one of the major global centers for art, fashion, and architecture.",
+      "evaluation": {
+        "factual_accuracy": {
+          "score": 10,
+          "explanation": "The AI response correctly identifies Paris as the capital of France, which is factually accurate."
+        },
+        "completeness": {
+          "score": 9,
+          "explanation": "The AI response provides additional context about Paris's global significance in art, fashion, and architecture, which complements but does not include the economic aspect mentioned in the correct answer."
+        },
+        "clarity": {
+          "score": 10,
+          "explanation": "The AI response is clear and concise, effectively communicating the necessary information about Paris being the capital of France and its roles."
+        },
+        "overall_score": 10,
+        "result": {
+          "status": "Pass",
+          "explanation": "The AI response accurately and clearly identifies Paris as the capital of France and provides additional relevant information, ensuring comprehension."
+        }
+      }
+    },
+    {
+      "question_number": 2,
+      "question": "Explain how photosynthesis works in simple terms.",
+      "correct_answer": "Photosynthesis is the process by which plants make their own food. They use sunlight, water, and carbon dioxide to create glucose and oxygen. The sunlight is absorbed by chlorophyll in the leaves, which converts these ingredients into energy for the plant.",
+      "ai_response": "Photosynthesis is a process used by plants, algae, and some bacteria to convert light energy, usually from the sun, into chemical energy stored in glucose, a type of sugar. During photosynthesis, these organisms absorb carbon dioxide from the air and water from the soil, using sunlight to transform them into glucose and oxygen, the latter of which is released into the atmosphere.",
+      "evaluation": {
+        "factual_accuracy": {
+          "score": 9,
+          "explanation": "The AI Response accurately describes the process of photosynthesis and includes details about other organisms like algae and bacteria, which reflects an accurate understanding of the process. However, the emphasis on light energy could mention chlorophyll more specifically as in the correct answer."
+        },
+        "completeness": {
+          "score": 8,
+          "explanation": "The AI's response includes additional information on algae and some bacteria, which enhances understanding, but does not explicitly mention chlorophyll, a key component in absorbing sunlight."
+        },
+        "clarity": {
+          "score": 9,
+          "explanation": "The AI Response is clear and lays out the steps of photosynthesis in an understandable manner. It uses terms like 'convert light energy' and 'transform them into glucose' which are easy to grasp."
+        },
+        "overall_score": 9,
+        "result": {
+          "status": "Pass",
+          "explanation": "The AI Response passes due to its factual accuracy, completeness, and clarity. It effectively explains photosynthesis, though slight improvements could be made in mentioning chlorophyll explicitly."
+        }
+      }
+    },
+    {
+      "question_number": 3,
+      "question": "What is the difference between RAM and ROM in computers?",
+      "correct_answer": "RAM (Random Access Memory) is temporary memory that stores data that the computer is actively using. It's volatile, meaning its contents are erased when the computer is turned off. ROM (Read-Only Memory) is permanent memory that contains instructions needed to start up the computer. Its contents remain even when the computer is turned off.",
+      "ai_response": "RAM (Random Access Memory) is a type of volatile memory used for temporary storage while a computer is in operation, allowing for quick read and write access to support active processes and tasks. ROM (Read-Only Memory), on the other hand, is non-volatile and used to store permanent instructions for the computer, such as firmware, which remain intact even when the computer is turned off.",
+      "evaluation": {
+        "factual_accuracy": {
+          "score": 10,
+          "explanation": "The AI response accurately describes the main characteristics and functions of both RAM and ROM as provided in the correct answer."
+        },
+        "completeness": {
+          "score": 10,
+          "explanation": "The AI response is complete as it covers all key points including the volatility of RAM and the permanence of ROM, as well as their respective roles in computer operation."
+        },
+        "clarity": {
+          "score": 10,
+          "explanation": "The AI response is clear and well-articulated, making it easy to understand the differences between RAM and ROM."
+        },
+        "overall_score": 10,
+        "result": {
+          "status": "Pass",
+          "explanation": "The AI response thoroughly and accurately describes the differences between RAM and ROM, matching the details in the correct answer."
+        }
+      }
+    }
+  ]
+}
